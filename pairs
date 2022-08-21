@@ -1,1 +1,6 @@
+//
+prqagma solidity ^0.8.0;
 
+contract pair {
+  function balanceOf (address owner) external; Views Returns(unit) {}
+  }
